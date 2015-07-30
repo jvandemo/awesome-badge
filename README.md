@@ -58,6 +58,10 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 
 ## History
 
+v0.2.1
+
+- Add `npm-debug.log` to `.gitignore`
+
 v0.2.0
 
 - Removed dependency on Polymer
