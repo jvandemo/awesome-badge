@@ -58,7 +58,13 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 
 ## History
 
-For detailed changelog, check [Releases](https://github.com/jvandemo/awesome-badge/releases).
+v0.2.0
+
+- Removed dependency on Polymer
+
+v0.1.0
+
+- Initial release
 
 ## License
 
